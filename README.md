@@ -63,7 +63,7 @@ The neural network outperformed standard machine learning algorithms due to its 
    ```
 
 ## Contributors
-- Your Name
+- Sifa Mwachoni
 
 ## License
 This project is licensed under the MIT License.

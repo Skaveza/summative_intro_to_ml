@@ -20,7 +20,7 @@ The dataset comprises over 6,000 healthcare facilities across Uganda and include
 
 | Instance | Optimizer | Regularizer | Epochs | Early Stopping | Layers | Learning Rate | Accuracy | F1 Score | Recall | Precision |
 |----------|------------|-------------|--------|----------------|--------|---------------|----------|----------|--------|-----------|
-| Instance 1 | None | Default | No | 4 | 0.001 | 0.71 | 0.7033 | 0.71 | 0.713 |
+| Instance 1 | None | Default | No | 10(default) | 4 | 0.001 | 0.71 | 0.7033 | 0.71 | 0.713 |
 | Instance 2 | Adam | L1 | 40 | Yes | 5 | 0.01 | 0.58 | 0.5633 | 0.58 | 0.57 |
 | Instance 3 | Adam | L1+L2 | 100 | Yes | 5 | 0.005 | 0.71 | 0.7033 | 0.71 | 0.71 |
 | Instance 4 | Adam | L1+L2 | 100 | Yes | 5 | 0.001 | 0.87 | 0.8633 | 0.87 | 0.88 |

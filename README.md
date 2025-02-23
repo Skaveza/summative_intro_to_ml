@@ -1,5 +1,8 @@
 # README: Healthcare Facility Rating Prediction
 
+## Video Submission
+https://youtu.be/bOMaOt_YHeY
+
 ## Project Overview
 Access to quality healthcare remains a significant challenge for displaced individuals, who often face barriers preventing them from receiving timely and appropriate medical care. This project leverages machine learning to predict healthcare facility ratings, assisting displaced individuals and policymakers in making informed healthcare decisions. By utilizing data-driven insights, we aim to bridge healthcare gaps and enhance service delivery for vulnerable populations.
 
@@ -77,7 +80,7 @@ Between machine learning (Random Forest) and deep learning (Neural Networks), th
    ```
 
 ## Contributors
-- Your Name (your.email@example.com)
+- Sifa Mwachoni(s.mwachoni@alustudent.com)
 
 ## License
 This project is licensed under the MIT License.
